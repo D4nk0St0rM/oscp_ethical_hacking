@@ -165,7 +165,7 @@ C:\Users\YOURUSERNAME\AppData\Roaming\Apple Computer\MobileSync\Backup\
 C:\Windows\Web\Screenwindows 
 C:\Program Files\WindowsApps
 C:\Windows\System32\MdSched.exe
-C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microsoft Edge Canary.lnk”[45/1919]
+C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microsoft Edge Canary.lnk
 C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Templates
 C:\Program Files (x86)\Microsoft Office\Office16
 C:\Users\YOURUSERNAME\AppData\Local\Microsoft\OneNote
@@ -224,7 +224,7 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Ch
 C:\Windows\System32\cmd.exe
 C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk
-C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Administrative Tools.lnk”
+C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Administrative Tools.lnk
 C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Administrative Tools.lnk
 C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
 C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
