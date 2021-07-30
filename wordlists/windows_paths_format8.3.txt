@@ -1,0 +1,182 @@
+C:\Users\Administrator\NTUser.dat 
+C:\DOCUME~1\Administrator\NTUser.dat 
+C:\apache\logs\access.log 
+C:\apache\logs\error.log 
+C:\apache\php\php.ini 
+C:\boot.ini 
+C:\inetpub\wwwroot\global.asa 
+C:\MySQL\data\hostname.err 
+C:\MySQL\data\mysql.err 
+C:\MySQL\data\mysql.log 
+C:\MySQL\my.cnf 
+C:\MySQL\my.ini 
+C:\php4\php.ini 
+C:\php5\php.ini 
+C:\php\php.ini 
+C:\PROGRA~1\Apache Group\Apache2\conf\httpd.conf 
+C:\PROGRA~1\Apache Group\Apache\conf\httpd.conf 
+C:\PROGRA~1\Apache Group\Apache\logs\access.log 
+C:\PROGRA~1\Apache Group\Apache\logs\error.log 
+C:\PROGRA~1\FileZilla Server\FileZilla Server.xml 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportServer\Bin\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportManager\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\DTS\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\DTS\Connections 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\DTS\Binn 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\Tools\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\COM\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\Shared\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportServer\Bin\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportManager\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\DTS\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\DTS\Connections 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\DTS\Binn 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\Tools\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\COM\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\DATA\Shared\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportServer\Bin\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportManager\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\DTS\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\DTS\Connections 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\DTS\Binn 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\Tools\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\COM\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\Shared\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportServer\Bin\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\Reporting Services\ReportManager\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\DTS\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\DTS\Connections 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\DTS\Binn 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\Tools\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\COM\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\Shared\ 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL12.SQLEXPRESS\MSSQL\DATA 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL13.SQLEXPRESS\MSSQL\DATA 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA 
+C:\PROGRA~1\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA 
+C:\PROGRA~1\MySQL\data\hostname.err 
+C:\PROGRA~1\MySQL\data\mysql-bin.log 
+C:\PROGRA~1\MySQL\data\mysql.err 
+C:\PROGRA~1\MySQL\data\mysql.log 
+C:\PROGRA~1\MySQL\my.ini 
+C:\PROGRA~1\MySQL\my.cnf 
+C:\PROGRA~1\MySQL\MySQL Server 5.0\data\hostname.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.0\data\mysql-bin.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.0\data\mysql.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.0\data\mysql.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.0\my.cnf 
+C:\PROGRA~1\MySQL\MySQL Server 5.0\my.ini 
+C:\PROGRA~1\MySQL\MySQL Server 5.1\data\hostname.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.1\data\mysql-bin.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.1\data\mysql.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.1\data\mysql.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.1\my.cnf 
+C:\PROGRA~1\MySQL\MySQL Server 5.1\my.ini 
+C:\PROGRA~1\MySQL\MySQL Server 5.5\data\hostname.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.5\data\mysql-bin.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.5\data\mysql.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.5\data\mysql.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.5\my.cnf 
+C:\PROGRA~1\MySQL\MySQL Server 5.5\my.ini 
+C:\PROGRA~1\MySQL\MySQL Server 5.6\data\hostname.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.6\data\mysql-bin.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.6\data\mysql.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.6\data\mysql.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.6\my.cnf 
+C:\PROGRA~1\MySQL\MySQL Server 5.6\my.ini 
+C:\PROGRA~1\MySQL\MySQL Server 5.7\data\hostname.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.7\data\mysql-bin.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.7\data\mysql.err 
+C:\PROGRA~1\MySQL\MySQL Server 5.7\data\mysql.log 
+C:\PROGRA~1\MySQL\MySQL Server 5.7\my.cnf 
+C:\PROGRA~1\MySQL\MySQL Server 5.7\my.ini 
+C:\PROGRA~1\MySQL\MySQL Server 8.0\data\hostname.err 
+C:\PROGRA~1\MySQL\MySQL Server 8.0\data\mysql-bin.log 
+C:\PROGRA~1\MySQL\MySQL Server 8.0\data\mysql.err 
+C:\PROGRA~1\MySQL\MySQL Server 8.0\data\mysql.log 
+C:\PROGRA~1\MySQL\MySQL Server 8.0\my.cnf 
+C:\PROGRA~1\MySQL\MySQL Server 8.0\my.ini 
+C:\PROGRA~2\Apache Group\Apache2\conf\httpd.conf 
+C:\PROGRA~2\Apache Group\Apache\conf\httpd.conf 
+C:\PROGRA~2\Apache Group\Apache\conf\access.log 
+C:\PROGRA~2\Apache Group\Apache\conf\error.log 
+C:\PROGRA~2\FileZilla Server\FileZilla Server.xml 
+C:\PROGRA~2\xampp\apache\conf\httpd.conf 
+C:\Windows\php.ini C:\WINDOWS\Repair\SAM 
+C:\Windows\repair\system C:\Windows\repair\software 
+C:\Windows\repair\security 
+C:\Windows\System32\drivers\etc\hosts 
+C:\Windows\win.ini 
+C:\WINNT\php.ini 
+C:\WINNT\win.ini 
+C:\xampp\apache\bin\php.ini 
+C:\xampp\apache\logs\access.log 
+C:\xampp\apache\logs\error.log 
+C:\Windows\Panther\Unattend\Unattended.xml 
+C:\Windows\Panther\Unattended.xml 
+C:\Windows\debug\NetSetup.LOG 
+C:\Windows\System32\config\AppEvent.Evt 
+C:\Windows\System32\config\SecEvent.Evt 
+C:\Windows\System32\config\default.sav 
+C:\Windows\System32\config\security.sav 
+C:\Windows\System32\config\software.sav 
+C:\Windows\System32\config\system.sav 
+C:\Windows\System32\config\regback\default 
+C:\Windows\System32\config\regback\sam 
+C:\Windows\System32\config\regback\security 
+C:\Windows\System32\config\regback\system 
+C:\Windows\System32\config\regback\software 
+C:\PROGRA~1\MySQL\MySQL Server 5.1\my.ini 
+C:\Windows\System32\inetsrv\config\schema\ASPNET_schema.xml 
+C:\Windows\System32\inetsrv\config\applicationHost.config 
+C:\inetpub\logs\LogFiles\W3SVC1\u_ex[YYMMDD].log 
+C:\Tools\Computer 
+C:\Management.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\dfrgui.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\Disk 
+C:\Cleanup.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\Event 
+C:\Viewer.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\iSCSI 
+C:\Initiator.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\ODBC 
+C:\Data 
+C:\Sources 
+C:\(64-bit).lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\Performance 
+C:\Monitor.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\Print 
+C:\Management.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\Resource 
+C:\Monitor.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\services.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\System 
+C:\Configuration.lnk 
+C:\PROGRA~3\MICROS~1\Windows\Start 
+C:\Menu\Programs\Administrative 
+C:\Tools\System 
+C:\Information.lnkTemp files location	C:\Users\yourusername\AppData\Local\Temp 
