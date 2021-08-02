@@ -1,3 +1,7 @@
+https://www.exploit-db.com/papers/12975
+
+
+
 ```
 ' or '1'='1
 -'
