@@ -1,4 +1,4 @@
-source: OSWAP
+source: [OWSAP](https://owasp.org)
 
 ### SQL Server Characteristics
 Microsoft SQL server has a few unique characteristics, so some exploits need to be specially customized for this application

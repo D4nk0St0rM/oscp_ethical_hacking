@@ -1,4 +1,6 @@
-source: OWSAP
+[![bobbytables](/images/xkcd.png)
+##### source: [xkcd](https://xkcd.com/)
+
 
 ### SQL Injection
 SQL injection testing checks if it is possible to inject data into the application so that it executes a user-controlled SQL query in the database.
@@ -15,4 +17,5 @@ Because the way it was constructed, the user can supply crafted input trying to 
 
 `select title, text from news where id=10 or 1=1`
 
+source: [OWSAP](https://owasp.org)
 
