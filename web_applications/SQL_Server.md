@@ -164,17 +164,17 @@ Other options for out of band attacks are described in [Sample 4 above](#Example
 
 #### Trial and Error
 
-Alternatively, one may play lucky. That is the attacker may assume that there is a blind or out-of-band SQL injection vulnerability in a the web application. He will then select an attack vector (e.g., a web entry), [use fuzz vectors](../../6-Appendix/C-Fuzz_Vectors.md) against this channel and watch the response. For example, if the web application is looking for a book using a query
+For example, if the web application is looking for a book using a query
 
 ```sql
 select * from books where title="text entered by the user"
 ```
 
-then the penetration tester might enter the text: `'Bomba' OR 1=1-` and if data is not properly validated, the query will go through and return the whole list of books. This is evidence that there is a SQL injection vulnerability. The penetration tester might later `play` with the queries in order to assess the criticality of this vulnerability.
+then the penetration tester might enter the text: `'Bomba' OR 1=1-` and if data is not properly validated, the query will go through and return the whole list of books.
 
 #### If Multiple Error Messages Displayed
 
-On the other hand, if no prior information is available, there is still a possibility of attacking by exploiting any `covert channel`. It might happen that descriptive error messages are stopped, yet the error messages give some information. For example:
+It might happen that descriptive error messages are stopped, yet the error messages give some information. For example:
 
 - In some cases the web application (actually the web server) might return the traditional `500: Internal Server Error`, say when the application returns an exception that might be generated, for instance, by a query with unclosed quotes.
 - While in other cases the server will return a `200 OK` message, but the web application will return some error message inserted by the developers `Internal server error` or `bad data`.
@@ -183,11 +183,11 @@ This one bit of information might be enough to understand how the dynamic SQL qu
 
 #### Timing Attacks
 
-There is one more possibility for making a blind SQL injection attack when there is not visible feedback from the application: by measuring the time that the web application takes to answer a request. An attack of this sort is [described by Anley](http://www.encription.co.uk/downloads/more_advanced_sql_injection.pdf) from where we take the next examples. A typical approach uses the `waitfor delay` command: let's say that the attacker wants to check if the `pubs` sample database exists, he will simply inject the following command:
+A typical approach uses the `waitfor delay` command: let's say that the attacker wants to check if the `pubs` sample database exists, he will simply inject the following command:
 
 `if exists (select * from pubs..pub_info) waitfor delay '0:0:5'`
 
-Depending on the time that the query takes to return, we will know the answer. In fact, what we have here is two things: a `SQL injection vulnerability` and a `covert channel` that allows the penetration tester to get 1 bit of information for each query. Hence, using several queries (as many queries as bits in the required information) the pen tester can get any data that is in the database. Look at the following query
+Hence, using several queries (as many queries as bits in the required information) the pen tester can get any data that is in the database. Look at the following query
 
 ```sql
 declare @s varchar(8000)
@@ -203,7 +203,7 @@ Measuring the response time and using different values for `@i`, we can deduce t
 
 This query will wait for 5 seconds if bit `@bit` of byte `@byte` of the name of the current database is 1, and will return at once if it is 0. Nesting two cycles (one for `@byte` and one for `@bit`) we will we able to extract the whole piece of information.
 
-However, it might happen that the command `waitfor` is not available (e.g., because it is filtered by an IPS/web application firewall). This doesn't mean that blind SQL injection attacks cannot be done, as the pen tester should only come up with any time consuming operation that is not filtered. For example
+This doesn't mean that blind SQL injection attacks cannot be done, as the pen tester should only come up with any time consuming operation that is not filtered. For example
 
 ```sql
 declare @i int select @i = 0
@@ -214,7 +214,7 @@ end
 
 #### Checking for Version and Vulnerabilities
 
-The same timing approach can be used also to understand which version of SQL Server we are dealing with. Of course we will leverage the built-in `@@version` variable. Consider the following query:
+Consider the following query:
 
 `select @@version`
 
@@ -230,11 +230,11 @@ Such query will wait 5 seconds if the 25th character of the `@@version` variable
 
 ### Bruteforce of Sysadmin Password
 
-To bruteforce the sysadmin password, we can leverage the fact that `OPENROWSET` needs proper credentials to successfully perform the connection and that such a connection can be also "looped" to the local DB Server. Combining these features with an inferenced injection based on response timing, we can inject the following code:
+We can inject the following code:
 
 `select * from OPENROWSET('SQLOLEDB','';'sa';'<pwd>','select 1;waitfor delay ''0:0:5'' ')`
 
-What we do here is to attempt a connection to the local database (specified by the empty field after `SQLOLEDB`) using `sa` and `<pwd>` as credentials. If the password is correct and the connection is successful, the query is executed, making the DB wait for 5 seconds (and also returning a value, since OPENROWSET expects at least one column). Fetching the candidate passwords from a wordlist and measuring the time needed for each connection, we can attempt to guess the correct password. In "Data-mining with SQL Injection and Inference", David Litchfield pushes this technique even further, by injecting a piece of code in order to bruteforce the sysadmin password using the CPU resources of the DB Server itself.
+What we do here is to attempt a connection to the local database (specified by the empty field after `SQLOLEDB`) using `sa` and `<pwd>` as credentials.
 
 Once we have the sysadmin password, we have two choices:
 
