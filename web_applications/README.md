@@ -1,3 +1,5 @@
+[![bobbytables](/images/xkcd.png)
+
 source: OWSAP
 
 ### SQL Injection
