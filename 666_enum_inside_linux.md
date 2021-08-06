@@ -1,3 +1,13 @@
+
+#### find writable files and directories
+
+```
+find / -type f \( -perm -g+w -or -perm -o+w \) -exec ls -adl {} \; > f_find.txt
+find / -type d \( -perm -g+w -or -perm -o+w \) -exec ls -adl {} \; > d_find.txt
+```
+
+
+
 #### handy commands
 
 | Header | Description | Command |
